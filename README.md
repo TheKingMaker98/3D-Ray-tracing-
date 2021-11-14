@@ -1,4 +1,5 @@
-# Balls-and-dicks-in-3D
-Project to give in before fuckin 1 st week of january! the one that does the most code will be paid! ;) 
+# Ray tracing in pyhton 
+Project to give in before  1 st week of january 2022 for our programming class . 
+
 
 
